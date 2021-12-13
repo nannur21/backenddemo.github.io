@@ -3,7 +3,7 @@ title: Juan Rizo
 description: Personal site of Juan Rizo
 
 remote_theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 
 markdown: kramdown
 
