@@ -11,6 +11,8 @@ author:
   bio      : "I'm a software engineer. Build things"
   location : "Lima, Peru 🇵🇪"
   twitter  : Milhouse_Van_Ho
+  linkedin : "sebmart"
+  github : "sebmart"
 
 include:
   - _pages
