@@ -30,8 +30,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      share: true
+#       read_time: true
+#       share: true
   # _pages
   - scope:
       path: ""
@@ -43,3 +43,7 @@ defaults:
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache  
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
