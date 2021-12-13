@@ -1,3 +1,8 @@
+---
+title: "About"
+permalink: /about/
+author_profile: true
+---
 ## Welcome to GitHub Pages Master
 
 You can use the [editor on GitHub](https://github.com/nannur21/backenddemo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
