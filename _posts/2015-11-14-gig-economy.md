@@ -11,7 +11,15 @@ author_profile: false
 
 [<img class="alignright size-medium wp-image-528" src="http://i2.wp.com/shefska.com/wp-content/uploads/2015/11/uber_driver-300x169.jpg?fit=300%2C169" alt="uber_driver" data-recalc-dims="1" />][1]Uber has over <a href="http://www.businessinsider.com/uber-doubles-its-drivers-in-2015-2015-10" target="_blank">327,000 active drivers</a>. That is a ton of people.
 
+{:refdef: style="text-align: center;"}
+![rendered UI]({{ site.url }}/assets/posts/2015-11-14-gig-economy/001.png)
+{: refdef}
+
 If you consider those 327,000 people to be employees (which they are not) you would be looking at a company comparable in size to General Electric, the Home Depot, and UPS.
+
+{:refdef: style="text-align: center;"}
+![rendered UI]({{ site.url }}/assets/posts/2015-11-14-gig-economy/002.png)
+{: refdef}
 
 Obviously Uber is humongous regardless of how their drivers are categorized. What makes Uber and other &#8220;gig economy&#8221; companies compelling is that their workforce&#8217;s are entirely comprised of independent contractors. Uber, Handy, Postmates and others have found hundreds of thousands of able and willing individuals to contract for them. That is amazing.
 
