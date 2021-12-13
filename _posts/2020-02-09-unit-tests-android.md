@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Unit tests on Android"
 categories: swift
 excerpt: Since bad documentation is far less useful than no documentation at all, how do we make ourselves the path easier?
