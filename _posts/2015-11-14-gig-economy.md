@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Take This Idea: Gig Economy Retirement Benefits"
-author: Zach Shefska
 categories: Entrepreneurship
 ---
 <div class="ttr_start">
