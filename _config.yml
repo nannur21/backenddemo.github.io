@@ -5,6 +5,11 @@ description: Personal site of Juan Rizo
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: dark
 
+markdown: kramdown
+
+atom_feed:
+  hide: true
+
 author:
   name     : "Juan Rizo"
   avatar   : "/avatar.jpg"
