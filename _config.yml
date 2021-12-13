@@ -2,7 +2,7 @@
 title: Juan Rizo
 description: Personal site of Juan Rizo
 
-remote_theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.22.0
 minimal_mistakes_skin: "dark"
 
 markdown: kramdown
@@ -39,6 +39,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 plugins:
   - jekyll-remote-theme
