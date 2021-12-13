@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Start with Android Activities"
 date: 2020-03-01 12:20:01 -0000
 categories: Android Core
