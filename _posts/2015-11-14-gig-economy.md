@@ -4,6 +4,7 @@ title: "Take This Idea: Gig Economy Retirement Benefits"
 categories: Entrepreneurship
 excerpt: Since bad documentation is far less useful than no documentation at all, how do we make ourselves the path easier?
 tags: [kotlin, coding, documentation, testing]
+author_profile: false
 ---
 <div class="ttr_start">
 </div>
