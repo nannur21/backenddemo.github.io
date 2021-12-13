@@ -1,14 +1,8 @@
 ---
 layout: single
-title: 'Take This Idea: Gig Economy Retirement Benefits'
+title: "Take This Idea: Gig Economy Retirement Benefits"
 author: Zach Shefska
-excerpt: |
-  tl;dr
-  Problem: You cannot make a career out of the gig economy.
-  Solution: Aspects of full-time employment must be provided to contractors in innovative and different ways.
-categories:
-  - Entrepreneurship
-comments: true
+categories: Entrepreneurship
 ---
 <div class="ttr_start">
 </div>
