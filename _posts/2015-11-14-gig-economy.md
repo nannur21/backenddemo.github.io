@@ -23,6 +23,8 @@ If you consider those 327,000 people to be employees (which they are not) you wo
 
 Obviously Uber is humongous regardless of how their drivers are categorized. What makes Uber and other &#8220;gig economy&#8221; companies compelling is that their workforce&#8217;s are entirely comprised of independent contractors. Uber, Handy, Postmates and others have found hundreds of thousands of able and willing individuals to contract for them. That is amazing.
 
+![useful image]({{ site.url }}/assets/posts/2015-11-14-gig-economy/001.png)
+
 The trade-offs that come from contract labor are under reported. Making money from Uber has its perks, but you can&#8217;t seriously consider making a career out of it, can you?
 
 Investors seem to think differently. Venture capital has flooded the &#8220;gig economy&#8221; scene, and startup companies have billion dollar bets riding on them. Uber is a fundamental social service, but lacks legitimacy at a <a href="http://www.wsj.com/articles/uber-valued-at-more-than-50-billion-1438367457?alg=y" target="_blank">valuation of $50 billion</a>.
