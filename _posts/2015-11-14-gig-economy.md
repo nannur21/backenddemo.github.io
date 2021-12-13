@@ -6,7 +6,6 @@ excerpt: |
   tl;dr
   Problem: You cannot make a career out of the gig economy.
   Solution: Aspects of full-time employment must be provided to contractors in innovative and different ways.
-permalink: /gig-economy/
 categories:
   - Entrepreneurship
 comments: true
