@@ -3,7 +3,7 @@ title: GymBro Progress Report
 comments: true
 author: Zach Shefska
 excerpt: For us, as college freshman we went into this process with hundreds of assumptions. It is only through talking with your early adopters and initial customers that you can learn how to refine your product or service. This is an ongoing process.
-layout: post
+layout: single
 permalink: /gymbro-progress-report/
 categories:
   - Entrepreneurship
