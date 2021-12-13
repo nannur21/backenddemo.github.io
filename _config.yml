@@ -4,8 +4,9 @@ description: Personal site of Juan Rizo
 
 # remote_theme: mmistakes/minimal-mistakes@4.22.0
 # minimal_mistakes_skin: "dark"
+
 #remote_theme           : "mmistakes/minimal-mistakes"
-remote_theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # markdown: kramdown
