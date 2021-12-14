@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: "Threads block kotln"
 description: "Modelling large immutable objects in Objective-C without creating telescoping initializers"
 date: 2016-01-10 19:30:05 +0300
