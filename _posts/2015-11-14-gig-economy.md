@@ -7,6 +7,8 @@ tags: [kotlin, coding, documentation, testing]
 <div class="ttr_start">
 </div>
 
+<img src="{{ site.url }}/assets/posts/2015-11-14-gig-economy/003.png" width=150 height=260>
+
 [<img class="alignright size-medium wp-image-528" src="http://i2.wp.com/shefska.com/wp-content/uploads/2015/11/uber_driver-300x169.jpg?fit=300%2C169" alt="uber_driver" data-recalc-dims="1" />][1]Uber has over <a href="http://www.businessinsider.com/uber-doubles-its-drivers-in-2015-2015-10" target="_blank">327,000 active drivers</a>. That is a ton of people.
 
 {:refdef: style="text-align: center;"}
@@ -26,8 +28,6 @@ Obviously Uber is humongous regardless of how their drivers are categorized. Wha
 The trade-offs that come from contract labor are under reported. Making money from Uber has its perks, but you can&#8217;t seriously consider making a career out of it, can you?
 
 Investors seem to think differently. Venture capital has flooded the &#8220;gig economy&#8221; scene, and startup companies have billion dollar bets riding on them. Uber is a fundamental social service, but lacks legitimacy at a <a href="http://www.wsj.com/articles/uber-valued-at-more-than-50-billion-1438367457?alg=y" target="_blank">valuation of $50 billion</a>.
-
-![useful image]({{ site.url }}/assets/posts/2015-11-14-gig-economy/003.png|width=100px)
 
 What is holding Uber and other similar companies back?
 
