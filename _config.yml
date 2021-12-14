@@ -17,7 +17,7 @@ atom_feed:
 
 author:
   name     : "Juan Rizo"
-  avatar   : "/avatar.jpg"
+  avatar   : "/assets/avatar.jpg"
   bio      : "I'm a software engineer. Build things"
   location : "Lima, Peru 🇵🇪"
   twitter  : Milhouse_Van_Ho
