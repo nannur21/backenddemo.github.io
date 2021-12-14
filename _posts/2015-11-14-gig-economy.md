@@ -7,7 +7,7 @@ tags: [kotlin, coding, documentation, testing]
 <div class="ttr_start">
 </div>
 
-<img src="{{ site.url }}/assets/posts/2015-11-14-gig-economy/001.png">
+<img src="{{ site.url }}/assets/posts/2015-11-14-gig-economy/001.png" width="150">
 
 {:refdef: style="text-align: center;"}
 ![rendered UI]({{ site.url }}/assets/posts/2015-11-14-gig-economy/001.png)
