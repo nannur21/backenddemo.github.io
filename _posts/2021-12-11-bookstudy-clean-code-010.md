@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 클린코드 스터디 - 010
 categories: 
   - bookstudy - cleancode
