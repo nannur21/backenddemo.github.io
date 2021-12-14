@@ -7,9 +7,7 @@ tags: [kotlin, coding, documentation, testing]
 <div class="ttr_start">
 </div>
 
-<img src="{{ site.url }}/assets/posts/2015-11-14-gig-economy/003.png" width=150 height=260>
-
-[<img class="alignright size-medium wp-image-528" src="http://i2.wp.com/shefska.com/wp-content/uploads/2015/11/uber_driver-300x169.jpg?fit=300%2C169" alt="uber_driver" data-recalc-dims="1" />][1]Uber has over <a href="http://www.businessinsider.com/uber-doubles-its-drivers-in-2015-2015-10" target="_blank">327,000 active drivers</a>. That is a ton of people.
+<img src="({{ site.url }}/assets/posts/2015-11-14-gig-economy/003.png)" width="150" />
 
 {:refdef: style="text-align: center;"}
 ![rendered UI]({{ site.url }}/assets/posts/2015-11-14-gig-economy/001.png)
