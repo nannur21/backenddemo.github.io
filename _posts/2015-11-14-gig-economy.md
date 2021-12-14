@@ -27,7 +27,7 @@ The trade-offs that come from contract labor are under reported. Making money fr
 
 Investors seem to think differently. Venture capital has flooded the &#8220;gig economy&#8221; scene, and startup companies have billion dollar bets riding on them. Uber is a fundamental social service, but lacks legitimacy at a <a href="http://www.wsj.com/articles/uber-valued-at-more-than-50-billion-1438367457?alg=y" target="_blank">valuation of $50 billion</a>.
 
-![useful image]({{ site.url }}/assets/posts/2015-11-14-gig-economy/003.png|width=100px|width=150px)
+![useful image]({{ site.url }}/assets/posts/2015-11-14-gig-economy/003.png|width=100px)
 
 What is holding Uber and other similar companies back?
 
