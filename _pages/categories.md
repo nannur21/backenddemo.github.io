@@ -1,5 +1,5 @@
 ---
 title: Category Archive
-layout: single
+layout: categories
 permalink: /categories/
 ---
