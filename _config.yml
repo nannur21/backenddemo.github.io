@@ -26,8 +26,7 @@ author:
 
 include:
   - _pages
-  
-permalink: /:categories/:title/
+
 
 defaults:
   # _posts
