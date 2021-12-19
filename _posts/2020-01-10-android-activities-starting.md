@@ -29,6 +29,11 @@ All of the above was rendered alongside my code within Xcode as I was tweaking t
 
 "I don't see the problem Mauri 🧐" you might be thinking. The above is all fine and dandy for small/prototype/side projects. The real issue arises with scale: what about multiple languages? Orientations (landscape/portrait)? Light and dark mode? Checking that no regressions are produce as the codebase grows? We need to introduce some automation in here!
 
+## Resize an image Max width:
+{:refdef: style="text-align: center;"}
+<img src="{{ site.url }}/assets/posts/2015-11-14-gig-economy/001.png" style="max-width: 100px;" />
+{: refdef}
+
 ## Snapshot tests
 This is where snapshot tests come in handy. In a nutshell: they take a screenshot of the device with the setup we provide and store it for later comparison. As soon as something in the UI changes without us intending to do so, said test would immediately fail (also providing a new screenshot for us to check what changed).
 
