@@ -21,6 +21,12 @@ All of the above was rendered alongside my code within Xcode as I was tweaking t
 
 ## The problem
 
+## Resize an image:
+{:refdef: style="text-align: center;"}
+<img src="{{ site.url }}/assets/posts/2015-11-14-gig-economy/001.png" width="350">
+{: refdef}
+
+
 "I don't see the problem Mauri 🧐" you might be thinking. The above is all fine and dandy for small/prototype/side projects. The real issue arises with scale: what about multiple languages? Orientations (landscape/portrait)? Light and dark mode? Checking that no regressions are produce as the codebase grows? We need to introduce some automation in here!
 
 ## Snapshot tests
